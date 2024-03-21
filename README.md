@@ -1,7 +1,6 @@
 # Educational-Data-System
 
 The idea behing the project is to convert existing local data to a robust normalized and ready to access database for the state education department to gain insights 
-
 on the expenditure of grants based on the ethnicity of students and find ways to leverage new schemes and extract any bias involved.
 
 As a part of this project, we have created a data base in PostgreSQL with five tables (Faculty, Students, Ethnicity, Univeristy and Zipcodes). 
